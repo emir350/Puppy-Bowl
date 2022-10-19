@@ -1,0 +1,9 @@
+.box {
+   display: inline-block;
+   align-items: flex-start;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: center;
+   width: 20%;
+}
+
